@@ -1,0 +1,25 @@
+{
+  "name": "Hol-Trans Pomoc Drogowa 24/7",
+  "short_name": "Hol-Trans",
+  "description": "Pomoc drogowa i holowanie aut w Radomiu i okolicach. Całą dobę.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "pl",
+  "background_color": "#07070a",
+  "theme_color": "#07070a",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
